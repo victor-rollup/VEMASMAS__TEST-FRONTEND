@@ -1,0 +1,9 @@
+.swal2-popup.swal2-toast {
+  color: var(--bussiness-color__white-primary);
+  opacity: 85%;
+  background-color: rgb(0 0 0 / 85%);
+}
+.swal2-popup {
+  cursor: pointer;
+  user-select: none;
+}

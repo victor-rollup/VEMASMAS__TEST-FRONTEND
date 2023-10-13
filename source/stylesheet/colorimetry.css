@@ -1,0 +1,9 @@
+:root {
+  --bussiness-color__red-primary: rgb(251 36 43);
+  --bussiness-color__blue-primary: rgb(7 12 103);
+  --bussiness-color__blue-secondary: rgb(2 9 56);
+  --bussiness-color__blue-tertiary: rgb(0 0 150);
+  --bussiness-color__black-primary: rgb(0 0 0);
+  --bussiness-color__white-primary: rgb(255 255 255);
+  --bussiness-color__black-primary--quarter-opacity: rgb(0 0 0 / 25%);
+}

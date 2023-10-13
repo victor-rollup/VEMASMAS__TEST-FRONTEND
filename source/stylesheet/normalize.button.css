@@ -1,0 +1,12 @@
+button {
+  width: -webkit-fill-available;
+  height: 2.5rem;
+  cursor: pointer;
+  border-color: transparent;
+  border-radius: 1rem;
+  padding-inline: 2rem;
+}
+
+button:enabled:active {
+  transform: scaleY(0.98);
+}

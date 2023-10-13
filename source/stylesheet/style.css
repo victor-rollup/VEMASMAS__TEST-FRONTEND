@@ -1,0 +1,19 @@
+@import url(./style.patch.css);
+@import url(./style.attribute.flex.css);
+
+[application] {
+  min-width: 100vw;
+  min-height: 100vh;
+  max-width: 100vw;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+[bottom-shadow] {
+  box-shadow: 0 0.125rem 0.25rem 0
+    var(--bussiness-color__black-primary--quarter-opacity);
+}
+
+:not(label)[text-capitalize] {
+  text-transform: capitalize;
+}
